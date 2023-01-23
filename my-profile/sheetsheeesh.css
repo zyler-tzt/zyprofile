@@ -1,0 +1,37 @@
+@font-face {
+    font-family: NoveSquare;
+    src: url(NovaSquare-Regular.ttf);
+}
+@font-face {
+    font-family: Atmosphere;
+    src: url(Atmosphere-Regular.TTF);
+}
+
+
+h2{
+    font-family: Atmosphere;
+    font-size: 60pt;
+    text-align: center;
+    color:aliceblue;
+}
+
+h4{
+    font-size: 15pt;
+    font-family: NoveSquare;
+    margin-left: 70pt;
+    margin-right: 70pt;
+    color:aliceblue;
+}
+img{
+    width: 100pt;
+    height: auto;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    width: 140pt;
+}
